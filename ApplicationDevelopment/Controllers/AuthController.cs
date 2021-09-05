@@ -1,24 +1,33 @@
-﻿using System.Collections.Generic;
-using System.Security.Claims;
+﻿using System.Data.Entity;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Web;
 using System.Web.Mvc;
 using ApplicationDevelopment.Entities;
 using ApplicationDevelopment.Models;
-using Microsoft.AspNet.Identity;
-using Microsoft.Owin.Security;
+using ApplicationDevelopment.Providers;
 
 namespace ApplicationDevelopment.Controllers
 {
     public class AuthController : BaseController
     {
         private readonly TrainingProgramManagerDbContext _context;
+        private readonly IHttpUserProvider _userProvider;
 
         public AuthController(
-            TrainingProgramManagerDbContext context
+            TrainingProgramManagerDbContext context,
+            IHttpUserProvider userProvider
         )
         {
             _context = context;
+            _userProvider = userProvider;
+        }
+
+        [AllowAnonymous]
+        // GET: AspNetUsers
+        public async Task<ActionResult> Index()
+        {
+            return RedirectToAction("Login");
         }
 
         [AllowAnonymous]
@@ -28,35 +37,49 @@ namespace ApplicationDevelopment.Controllers
             return View();
         }
 
-
+        [HttpPost]
         [AllowAnonymous]
-        public async Task<ActionResult> LoginCallback(LoginModel model, string ReturnUrl)
+        public async Task<ActionResult> LoginCallback(LoginModel model, string ReturnUrl, CancellationToken cancellationToken)
         {
-
             //GetUser information
+            var userEntity = await _context.AspNetUsers.FirstOrDefaultAsync(p => p.Email == model.Username && p.Password == model.Password);
 
-            var ctx = Request.GetOwinContext().Authentication;
-            var claims = new List<Claim>
+            if (userEntity == null)
             {
-                new Claim(ClaimTypes.Name, "name"), new Claim(ClaimTypes.Email, "email@email.com"), new Claim(ClaimTypes.Role, "Foo")
-            };
-            var identity = new ClaimsIdentity(claims, DefaultAuthenticationTypes.ApplicationCookie);
+                //return View("Login");
+                return RedirectToAction("Login");
+            }
 
-            ctx.SignIn(new AuthenticationProperties
-                {IsPersistent = true}, identity);
+            //var ctx = Request.GetOwinContext().Authentication;
+            //var claims = new List<Claim>
+            //{
+            //    new Claim(ClaimTypes.Name, userEntity.Fullname),
+            //    new Claim(ClaimTypes.Email, userEntity.Email)
+            //    //new Claim(ClaimTypes.Role, "Foo")
+            //};
+            ////var identity = new ClaimsIdentity(claims, DefaultAuthenticationTypes.ApplicationCookie);
 
+            //var identity = new ClaimsIdentity(claims, DefaultAuthenticationTypes.ApplicationCookie, ClaimTypes.Name, ClaimTypes.Role);
 
+            //ctx.SignIn(new AuthenticationProperties
+            //    {IsPersistent = true}, identity);
+
+            _userProvider.SignIn(new LoginUserModel
+            {
+                Email = userEntity.Email,
+                Fullname = userEntity.Fullname,
+                UserId = userEntity.Id
+            });
+
+            ReturnUrl = "AspNetUsers/Index";
 
             return Redirect(ReturnUrl);
+
+            //return RedirectToAction("Index","AspNetUsers");
         }
 
         public ActionResult Logout()
         {
-            // Call log out Sp.
-            //FormsAuthentication.SignOut();
-            //Session.Clear();
-            //HttpContext.Session.Clear();
-
             var ctx = Request.GetOwinContext();
             ctx.Authentication.SignOut();
             Session.Abandon();
