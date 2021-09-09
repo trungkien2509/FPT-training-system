@@ -1,0 +1,83 @@
+﻿@model IEnumerable<FPT_Training_System.Data.Models.CourseCategory>
+
+@{
+    ViewBag.Title = "Manage Course Cate";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.MCourseCategory = "active";
+}
+
+<h2>Manage Course Category</h2>
+
+<div class="btn-group">
+
+    <a href="@Url.Action("Create", "CourseCategories")">
+        <button type="button" class="btn btn-default"style="background:darkorange">
+            Create Course Category
+        </button>
+    </a>
+</div>
+
+@using (Html.BeginForm("Index", "CourseCategories", FormMethod.Get))
+{    
+    <input type="text" name="searchString" />
+    <button type="submit">Find</button>
+}
+
+<div class="card-body">
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Course Category Name</th>
+                <th>Course Category Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <th>
+                        @Html.DisplayFor(modelItem => item.CourseCateName)
+                    </th>
+                    <th>
+                        @Html.DisplayFor(modelItem => item.CourseCateDescription)
+                    </th>
+                    <th>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.CourseCateId }) |
+                        @Html.ActionLink("Details", "Details", new { id = item.CourseCateId }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.CourseCateId })
+                    </th>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@*<table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CourseCateName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CourseCateDescription)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CourseCateName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CourseCateDescription)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.CourseCateId }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.CourseCateId }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.CourseCateId })
+                </td>
+            </tr>
+        }
+
+    </table>*@

@@ -1,0 +1,84 @@
+﻿@model IEnumerable<FPT_Training_System.Data.Models.Course>
+
+@using FPT_Training_System.Web.Providers
+@{
+    var _userProvider = DependencyResolver.Current.GetService<IHttpUserProvider>();
+    var loggedUser = _userProvider.Provide();
+}
+
+@{
+    ViewBag.Title = "Manage Course";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.MCourse = "active";
+}
+
+<h2>Manage Courses</h2>
+
+@if (loggedUser.Roles.Contains("Training Staff"))
+{
+    <div class="btn-group">
+
+        <a href="@Url.Action("Create", "Courses")">
+            <button type="button" class="btn btn-default"style="background : darkorange">
+                Create Courses
+            </button>
+        </a>
+
+        <a href="@Url.Action("AssignTrainer", "AssignedCourses")">
+            <button type="button" class="btn btn-default">
+                Assign Trainer
+            </button>
+        </a>
+
+        <a href="@Url.Action("AssignTrainee", "AssignedCourses")">
+            <button type="button" class="btn btn-default">
+                Assign Trainee
+            </button>
+        </a>
+
+        <a href="@Url.Action("Index", "AssignedCourses")">
+            <button type="button" class="btn btn-default">
+                View Assigned Courses
+            </button>
+        </a>
+    </div>
+}
+
+@using (Html.BeginForm("Index", "Courses", FormMethod.Get))
+{
+    <input type="text" name="searchString" />
+    <button type="submit">Find</button>
+}
+
+<div class="card-body">
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Course Category</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <th>
+                        @Html.DisplayFor(modelItem => item.CourseName)
+                    </th>
+                    <th>
+                        @Html.DisplayFor(modelItem => item.CourseCategory.CourseCateName)
+                    </th>
+                    <th>
+                        @Html.DisplayFor(modelItem => item.CourseDescription)
+                    </th>
+                    <th>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.CourseId }) |
+                        @Html.ActionLink("Details", "Details", new { id = item.CourseId }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.CourseId })
+                    </th>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

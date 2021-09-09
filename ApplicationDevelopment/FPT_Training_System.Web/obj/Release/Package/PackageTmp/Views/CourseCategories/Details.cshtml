@@ -1,0 +1,35 @@
+﻿@model FPT_Training_System.Data.Models.CourseCategory
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>CourseCategory</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.CourseCateName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CourseCateName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CourseCateDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CourseCateDescription)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.CourseCateId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

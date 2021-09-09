@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

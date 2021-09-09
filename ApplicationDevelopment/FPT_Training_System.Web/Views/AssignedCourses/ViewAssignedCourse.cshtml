@@ -1,0 +1,46 @@
+﻿@model IEnumerable<FPT_Training_System.Data.Models.AssignedCourse>
+
+@using FPT_Training_System.Web.Providers
+@{
+    var _userProvider = DependencyResolver.Current.GetService<IHttpUserProvider>();
+    var loggedUser = _userProvider.Provide();
+}
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.VAssignedCourse = "active";
+}
+
+<h2>Assign Course</h2>
+
+<div class="card-body">
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Fullname</th>
+                <th>Course Name</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                if (item.AspNetUser.Id == loggedUser.UserId)
+                {
+                    <tr>
+                        <th>
+                            @Html.DisplayFor(modelItem => item.AspNetUser.Fullname)
+                        </th>
+                        <th>
+                            @Html.DisplayFor(modelItem => item.Course.CourseName)
+                        </th>
+                        <th>
+                            @Html.DisplayFor(modelItem => item.Course.CourseDescription)
+                        </th>                        
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,378 @@
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\obj\Debug\FPT_Training_System.Web.csprojAssemblyReference.cache
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\obj\Debug\FPT_Training_System.Web.csproj.CoreCompileInputs.cache
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\FPT_Training_System.Web.dll.config
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\FPT_Training_System.Web.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\FPT_Training_System.Web.pdb
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\csc.exe
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\csc.exe.config
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\csc.rsp
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\csi.exe
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\csi.exe.config
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\csi.rsp
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.Managed.Core.targets
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.AppContext.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Collections.Immutable.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Console.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Globalization.Calendars.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.IO.Compression.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.IO.FileSystem.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Net.Http.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Net.Sockets.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.ValueTuple.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Xml.XmlDocument.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Xml.XPath.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\vbc.exe
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\vbc.exe.config
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\vbc.rsp
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\VBCSCompiler.exe
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\VBCSCompiler.exe.config
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Antlr3.Runtime.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Autofac.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Autofac.Extensions.DependencyInjection.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Autofac.Integration.Mvc.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\EntityFramework.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\EntityFramework.SqlServer.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\FPT_Training_System.Data.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.AspNet.Identity.Core.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Owin.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Owin.Security.Cookies.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Owin.Security.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Owin.Security.OAuth.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Newtonsoft.Json.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Owin.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Buffers.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Diagnostics.DiagnosticSource.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Memory.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Numerics.Vectors.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Threading.Tasks.Extensions.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.Helpers.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.Mvc.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.Optimization.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.Razor.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.WebPages.Deployment.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.WebPages.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.WebPages.Razor.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\WebGrease.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\FPT_Training_System.Data.pdb
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\FPT_Training_System.Data.dll.config
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Antlr3.Runtime.pdb
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Autofac.pdb
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Autofac.xml
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Autofac.Extensions.DependencyInjection.pdb
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Autofac.Extensions.DependencyInjection.xml
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Autofac.Integration.Mvc.pdb
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Autofac.Integration.Mvc.xml
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\EntityFramework.xml
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\EntityFramework.SqlServer.xml
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.AspNet.Identity.Core.xml
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Owin.xml
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Owin.Security.xml
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Owin.Security.Cookies.xml
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Owin.Security.OAuth.xml
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Newtonsoft.Json.xml
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Buffers.xml
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Diagnostics.DiagnosticSource.xml
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Memory.xml
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Numerics.Vectors.xml
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Threading.Tasks.Extensions.xml
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.Helpers.xml
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.Mvc.xml
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.Optimization.xml
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.Razor.xml
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.WebPages.xml
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.WebPages.Deployment.xml
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.WebPages.Razor.xml
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\obj\Debug\FPT_Training_System.Web.csproj.CopyComplete
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\obj\Debug\FPT_Training_System.Web.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\obj\Debug\FPT_Training_System.Web.pdb
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\FPT_Training_System.Web.dll.config
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\FPT_Training_System.Web.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\FPT_Training_System.Web.pdb
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\csc.exe
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\csc.exe.config
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\csc.rsp
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\csi.exe
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\csi.exe.config
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\csi.rsp
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.AppContext.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Console.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Net.Http.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\vbc.exe
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\vbc.exe.config
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\vbc.rsp
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Antlr3.Runtime.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Autofac.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Autofac.Extensions.DependencyInjection.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Autofac.Integration.Mvc.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\EntityFramework.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\FPT_Training_System.Data.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Owin.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Newtonsoft.Json.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Owin.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Buffers.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Memory.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Numerics.Vectors.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.Helpers.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.Mvc.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.Optimization.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.Razor.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.WebPages.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\WebGrease.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\FPT_Training_System.Data.pdb
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\FPT_Training_System.Data.dll.config
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Autofac.pdb
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Autofac.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Autofac.Extensions.DependencyInjection.pdb
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Autofac.Extensions.DependencyInjection.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Autofac.Integration.Mvc.pdb
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Autofac.Integration.Mvc.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\EntityFramework.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Owin.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\Newtonsoft.Json.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Buffers.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Memory.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Numerics.Vectors.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.Helpers.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.Mvc.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.Optimization.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.Razor.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.WebPages.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\obj\Debug\FPT_Training_System.Web.csproj.AssemblyReference.cache
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\obj\Debug\FPT_Training_System.Web.csproj.CoreCompileInputs.cache
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\obj\Debug\FPT_Training_System.Web.csproj.CopyComplete
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\obj\Debug\FPT_Training_System.Web.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\parttimejob\ApplicationDevelopment\FPT_Training_System.Web\obj\Debug\FPT_Training_System.Web.pdb
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\FPT_Training_System.Web.dll.config
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\FPT_Training_System.Web.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\FPT_Training_System.Web.pdb
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\csc.exe
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\csc.exe.config
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\csc.rsp
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\csi.exe
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\csi.exe.config
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\csi.rsp
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.AppContext.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Console.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Net.Http.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\vbc.exe
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\vbc.exe.config
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\vbc.rsp
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Antlr3.Runtime.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Autofac.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Autofac.Extensions.DependencyInjection.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Autofac.Integration.Mvc.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\EntityFramework.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\EntityFramework.SqlServer.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\FPT_Training_System.Data.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Owin.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Owin.Security.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Newtonsoft.Json.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Owin.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Buffers.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Memory.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Numerics.Vectors.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.Helpers.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.Mvc.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.Optimization.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.Razor.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.WebPages.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\WebGrease.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\FPT_Training_System.Data.pdb
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\FPT_Training_System.Data.dll.config
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Antlr3.Runtime.pdb
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Autofac.pdb
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Autofac.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Autofac.Extensions.DependencyInjection.pdb
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Autofac.Extensions.DependencyInjection.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Autofac.Integration.Mvc.pdb
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Autofac.Integration.Mvc.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\EntityFramework.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\EntityFramework.SqlServer.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Owin.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Owin.Security.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\Newtonsoft.Json.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Buffers.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Memory.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Numerics.Vectors.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.Helpers.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.Mvc.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.Optimization.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.Razor.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.WebPages.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\obj\Debug\FPT_Training_System.Web.csproj.AssemblyReference.cache
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\obj\Debug\FPT_Training_System.Web.csproj.CoreCompileInputs.cache
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\obj\Debug\FPT_Training_System.Web.csproj.CopyComplete
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\obj\Debug\FPT_Training_System.Web.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Web\obj\Debug\FPT_Training_System.Web.pdb

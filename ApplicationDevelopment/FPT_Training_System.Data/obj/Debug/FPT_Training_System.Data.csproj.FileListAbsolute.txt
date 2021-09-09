@@ -1,0 +1,28 @@
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Data\bin\Debug\FPT_Training_System.Data.dll.config
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Data\bin\Debug\FPT_Training_System.Data.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Data\bin\Debug\FPT_Training_System.Data.pdb
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Data\bin\Debug\EntityFramework.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Data\bin\Debug\EntityFramework.xml
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Data\obj\Debug\FPT_Training_System.Data.Migrations.initDataBase.resources
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Data\obj\Debug\FPT_Training_System.Data.csproj.GenerateResource.cache
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Data\obj\Debug\FPT_Training_System.Data.csproj.CoreCompileInputs.cache
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Data\obj\Debug\FPT_Training_System.Data.csproj.CopyComplete
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Data\obj\Debug\FPT_Training_System.Data.dll
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Data\obj\Debug\FPT_Training_System.Data.pdb
+D:\source\PartTimeJob\parttimejob\ApplicationDevelopment\FPT_Training_System.Data\obj\Debug\FPT_Training_System.Data.csprojAssemblyReference.cache
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Data\bin\Debug\FPT_Training_System.Data.dll.config
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Data\bin\Debug\FPT_Training_System.Data.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Data\bin\Debug\FPT_Training_System.Data.pdb
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Data\bin\Debug\EntityFramework.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Data\bin\Debug\EntityFramework.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Data\obj\Debug\FPT_Training_System.Data.csproj.AssemblyReference.cache
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Data\obj\Debug\FPT_Training_System.Data.Migrations.initDataBase.resources
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Data\obj\Debug\FPT_Training_System.Data.csproj.GenerateResource.cache
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Data\obj\Debug\FPT_Training_System.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Data\obj\Debug\FPT_Training_System.Data.csproj.CopyComplete
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Data\obj\Debug\FPT_Training_System.Data.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Data\obj\Debug\FPT_Training_System.Data.pdb

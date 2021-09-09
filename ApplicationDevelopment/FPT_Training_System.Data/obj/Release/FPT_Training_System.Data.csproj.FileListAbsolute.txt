@@ -1,0 +1,14 @@
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Data\bin\Release\FPT_Training_System.Data.dll.config
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Data\bin\Release\FPT_Training_System.Data.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Data\bin\Release\FPT_Training_System.Data.pdb
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Data\bin\Release\EntityFramework.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Data\bin\Release\EntityFramework.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Data\obj\Release\FPT_Training_System.Data.csproj.AssemblyReference.cache
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Data\obj\Release\FPT_Training_System.Data.Migrations.initDataBase.resources
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Data\obj\Release\FPT_Training_System.Data.csproj.GenerateResource.cache
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Data\obj\Release\FPT_Training_System.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Data\obj\Release\FPT_Training_System.Data.csproj.CopyComplete
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Data\obj\Release\FPT_Training_System.Data.dll
+C:\Users\Ken\Documents\9. Greenwich\1670 - Application Development\CodeFPT\FPT_System\ApplicationDevelopment\FPT_Training_System.Data\obj\Release\FPT_Training_System.Data.pdb
